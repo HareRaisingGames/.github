@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hare Raising Games
+Hopping into a new future
 
 <!--
 
